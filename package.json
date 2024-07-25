@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "mysql2": "^3.9.7",
+    "python-shell": "^5.0.0"
+  }
+}
